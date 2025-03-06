@@ -1,4 +1,4 @@
 function opennewtab() {
 
-    window.open("index2.html","_blank");
+    window.open("index123.html","_blank");
  }
